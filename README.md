@@ -2,12 +2,12 @@
 #### Soy un desarrollador FullStack, encantado de conocerte!
 ![Soy un desarrollador FullStack, encantado de conocerte!](https://camo.githubusercontent.com/92b3f9f2916215280c01b56f76ce02b8c71ac6da21b87bb1eed0894d5d74bcd8/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f522e32353433343130636264303434653939336537353266616435653639623133373f72696b3d674b6b5145364e39656970397767267069643d496d6752617726723d30)
 
-Actualmente me encuentro simulando un horario laboral trabajando en proyectos personales para potenciar mis habilidades y estar listo para cuando llegue el momento de sumergirme de lleno en un proyecto real.
+Aprendi las tecnologias necesarias para desarrollar una aplicacion web desde el Front-end hasta el Back-end. Estoy enfocado en mejorar mi perfil como Front-end. Actualmente me encuentro simulando un horario laboral trabajando en proyectos personales para potenciar mis habilidades y estar listo para cuando llegue el momento de sumergirme de lleno en un proyecto real.
 
 - 🔭 Estoy trabajando en un proyecto personal con modalidad de juego enfocado en estimular el intelecto de las personas. 
 - 🌱 Estoy aprendiendo TypeScript y Tailwind 
 - 👯 Quiero colaborar con organizaciones de investigacion sobre los mecanismos de aprendizaje del ser humano. 
-- 📫 Cómo contactarme: luciomordev7@gmail.com || www.linkedin.com/in/lucio-morales-714632262 
+- 📫 Cómo contactarme: luciomordev7@gmail.com || www.linkedin.com/in/lucio-morales 
 - ⚡ Dato curioso: Dedico un tiempo al dia a estudiar cuestiones paralelas a la programacion para fomentar mi creatividad ya que la considero un pilar fundamental en el campo de la tecnologia. 
 
 <h3 align="left">Languages and Tools:</h3>
