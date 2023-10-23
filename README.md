@@ -7,7 +7,7 @@ Aprendi las tecnologias necesarias para desarrollar una aplicacion web desde el 
 - 🔭 Estoy trabajando en un proyecto personal con modalidad de juego enfocado en estimular el intelecto de las personas. 
 - 🌱 Estoy aprendiendo TypeScript y Tailwind 
 - 👯 Quiero colaborar con organizaciones de investigacion sobre los mecanismos de aprendizaje del ser humano. 
-- 📫 Cómo contactarme: [Correo electrónico](luciomordev7@gmail.com) || [LinkedIn](https://www.linkedin.com/in/lucio-morales)
+- 📫 Cómo contactarme: luciomordev7@gmail.com [LinkedIn](https://www.linkedin.com/in/lucio-morales) {:target="_blank"}
 - ⚡ Dato curioso: Dedico un tiempo al dia a estudiar cuestiones paralelas a la programacion para fomentar mi creatividad ya que la considero un pilar fundamental en el campo de la tecnologia. 
 
 <h3 align="left">Languages and Tools:</h3>
