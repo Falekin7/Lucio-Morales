@@ -2,15 +2,14 @@
 #### Soy un desarrollador FullStack, encantado de conocerte!
 ![Soy un desarrollador FullStack, encantado de conocerte!](https://camo.githubusercontent.com/92b3f9f2916215280c01b56f76ce02b8c71ac6da21b87bb1eed0894d5d74bcd8/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f522e32353433343130636264303434653939336537353266616435653639623133373f72696b3d674b6b5145364e39656970397767267069643d496d6752617726723d30)
 
-Aprendi las tecnologias necesarias para desarrollar una aplicacion web desde el Front-end hasta el Back-end. Estoy enfocado en mejorar mi perfil como Front-end. Actualmente me encuentro simulando un horario laboral trabajando en proyectos personales para potenciar mis habilidades y estar listo para cuando llegue el momento de sumergirme de lleno en un proyecto real.
+He adquirido las habilidades necesarias para desarrollar una aplicación web desde el Front-end hasta el Back-end. Mi enfoque principal está en mejorar mi perfil como Front-end. Actualmente, estoy simulando un horario laboral al trabajar en proyectos personales con el fin de potenciar mis habilidades y estar preparado para el momento en que me involucre en un proyecto real a tiempo completo
 
-- 🔭 Estoy trabajando en un proyecto personal con modalidad de juego enfocado en estimular el intelecto de las personas. 
-- 🌱 Estoy aprendiendo TypeScript y Tailwind 
-- 👯 Quiero colaborar con organizaciones de investigacion sobre los mecanismos de aprendizaje del ser humano.  
-- ⚡ Dato curioso: Dedico un tiempo al dia a estudiar cuestiones paralelas a la programacion para fomentar mi creatividad ya que la considero un pilar fundamental en el campo de la tecnologia. 
+- 🔭 Actualmente, estoy trabajando en un proyecto personal con un enfoque de juego, diseñado para estimular el intelecto de las personas. 
+- 🌱 Estoy dedicando tiempo a aprender TypeScript y Tailwind.
+- 👯 Me gustaria colaborar con organizaciones de investigación que se centran en los mecanismos de aprendizaje del ser humano. 
+- ⚡ Un dato random: Reservo un tiempo diario para estudiar temas relacionados con la programación que fomentan mi creatividad, ya que considero que la creatividad es un pilar fundamental en el campo de la tecnología. 
 
-Mi LinkedIn:
-
+Mi LinkedIn
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucio-morales/)
 
 <h3 align="left">Lenguajes y Tecnologias:</h3>
