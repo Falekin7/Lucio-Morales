@@ -8,6 +8,9 @@ Aprendi las tecnologias necesarias para desarrollar una aplicacion web desde el 
 - 🌱 Estoy aprendiendo TypeScript y Tailwind 
 - 👯 Quiero colaborar con organizaciones de investigacion sobre los mecanismos de aprendizaje del ser humano.  
 - ⚡ Dato curioso: Dedico un tiempo al dia a estudiar cuestiones paralelas a la programacion para fomentar mi creatividad ya que la considero un pilar fundamental en el campo de la tecnologia. 
+
+Mi LinkedIn:
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucio-morales/)
 
 <h3 align="left">Languages and Tools:</h3>
