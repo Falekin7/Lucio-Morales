@@ -1,6 +1,6 @@
 ### Hola 👋, mi nombre es Lucio Morales
 #### Soy un desarrollador FullStack, encantado de conocerte!
-![Soy un desarrollador FullStack, encantado de conocerte!](https://camo.githubusercontent.com/4da399c3a8f66b662e6c7c2ad787ce979082d31ab3270866174dd686b224ce34/68747470733a2f2f63646e2e61636f64657a2e696e2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f42616e6e65722d696d6167652d342e706e67)
+![Soy un desarrollador FullStack, encantado de conocerte!](https://camo.githubusercontent.com/92b3f9f2916215280c01b56f76ce02b8c71ac6da21b87bb1eed0894d5d74bcd8/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f522e32353433343130636264303434653939336537353266616435653639623133373f72696b3d674b6b5145364e39656970397767267069643d496d6752617726723d30)
 
 Actualmente me encuentro simulando un horario laboral trabajando en proyectos personales para potenciar mis habilidades y estar listo para cuando llegue el momento de sumergirme de lleno en un proyecto real.
 
