@@ -2,7 +2,7 @@
 #### Soy un desarrollador FullStack, encantado de conocerte!
 ![Soy un desarrollador FullStack, encantado de conocerte!](https://camo.githubusercontent.com/92b3f9f2916215280c01b56f76ce02b8c71ac6da21b87bb1eed0894d5d74bcd8/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f522e32353433343130636264303434653939336537353266616435653639623133373f72696b3d674b6b5145364e39656970397767267069643d496d6752617726723d30)
 
-He adquirido las habilidades necesarias para desarrollar una aplicación web desde el Front-end hasta el Back-end. Mi enfoque principal está en mejorar mi perfil como Front-end. Actualmente, estoy simulando un horario laboral al trabajar en proyectos personales con el fin de potenciar mis habilidades y estar preparado para el momento en que me involucre en un proyecto real a tiempo completo
+He adquirido las habilidades necesarias para desarrollar una aplicación web desde el Front-end hasta el Back-end. Mi enfoque principal está en mejorar mi perfil como Front-end. Hoy en día me encuentro simulando un horario laboral al trabajar en proyectos personales con el fin de potenciar mis habilidades y estar preparado para el momento en que me involucre en un proyecto real a tiempo completo
 
 - 🔭 Actualmente, estoy trabajando en un proyecto personal con un enfoque de juego, diseñado para estimular el intelecto de las personas. 
 - 🌱 Estoy dedicando tiempo a aprender TypeScript y Tailwind.
