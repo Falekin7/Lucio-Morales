@@ -7,7 +7,8 @@ He adquirido las habilidades necesarias para desarrollar una aplicación web des
 - 🔭 Actualmente, estoy trabajando en un proyecto personal con un enfoque de juego, diseñado para estimular el intelecto de las personas. 
 - 🌱 Estoy dedicando tiempo a aprender TypeScript y Tailwind.
 - 👯 Me gustaria colaborar con organizaciones de investigación que se centran en los mecanismos de aprendizaje del ser humano. 
-- ⚡ Un dato random: Reservo un tiempo diario para estudiar temas relacionados con la programación que fomentan mi creatividad, ya que considero que la creatividad es un pilar fundamental en el campo de la tecnología. 
+- ⚡ Un dato random: Reservo un tiempo diario para estudiar temas relacionados con la programación que fomentan mi creatividad, ya que considero que la creatividad es un pilar fundamental en el campo de la tecnología.
+
 Mi correo electronico: luciomordev7@gmail.com
 
 Mi LinkedIn
