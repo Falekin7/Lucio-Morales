@@ -8,8 +8,10 @@ He adquirido las habilidades necesarias para desarrollar una aplicación web des
 - 🌱 Estoy dedicando tiempo a aprender TypeScript y Tailwind.
 - 👯 Me gustaria colaborar con organizaciones de investigación que se centran en los mecanismos de aprendizaje del ser humano. 
 - ⚡ Un dato random: Reservo un tiempo diario para estudiar temas relacionados con la programación que fomentan mi creatividad, ya que considero que la creatividad es un pilar fundamental en el campo de la tecnología. 
+Mi correo electronico: luciomordev7@gmail.com
 
 Mi LinkedIn
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucio-morales/)
 
 <h3 align="left">Lenguajes y Tecnologias:</h3>
