@@ -1,6 +1,5 @@
 ### Hola 👋, mi nombre es Lucio Morales
 #### Soy un desarrollador FullStack, encantado de conocerte!
-![Soy un desarrollador FullStack, encantado de conocerte!]
 
 He adquirido las habilidades necesarias para desarrollar una aplicación web desde el Front-end hasta el Back-end. Mi enfoque principal está en mejorar mi perfil como Front-end. Hoy en día me encuentro simulando un horario laboral al trabajar en proyectos personales con el fin de potenciar mis habilidades y estar preparado para el momento en que me involucre en un proyecto real a tiempo completo
 
